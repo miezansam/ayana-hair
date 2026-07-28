@@ -63,7 +63,7 @@ Architecture à 3 couches : `Flutter → requête HTTP → API Node.js → MySQL
 | ![Connexion](./assets/images/02-login.png) | ![Inscription](./assets/images/03-inscription.png) | ![Accueil](./assets/images/04-accueil.png) |
 | Connexion | Inscription | Accueil |
 | | ![Boutique](./assets/images/05-boutique.png) | ![Panier](./assets/images/07-panier.png) |
-| Produits phares | Boutique | Panier |
+| | Boutique | Panier |
 | ![Checkout livraison](./assets/images/08-checkout-livraison.png) | ![Checkout paiement](./assets/images/09-checkout-paiement.png) | ![Checkout récapitulatif](./assets/images/10-checkout-recapitulatif.png) |
 | Livraison (étape 1) | Paiement (étape 2) | Récapitulatif (étape 3) |
 | ![Commande confirmée](./assets/images/11-commande-confirmee.png) | ![Historique](./assets/images/12-historique-commandes.png) | ![Détails commande](./assets/images/13-details-commande.png) |
