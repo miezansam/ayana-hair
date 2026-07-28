@@ -60,7 +60,7 @@ Architecture à 3 couches : `Flutter → requête HTTP → API Node.js → MySQL
 
 | | | |
 |---|---|---|
-| ![Connexion](./assets/images/02-login.png) | ![Inscription](./assets/images/03-inscription.png) | ![Accueil](./images/screens/03-accueil.png) |
+| ![Connexion](./assets/images/02-login.png) | ![Inscription](./assets/images/03-inscription.png) | ![Accueil](./images/screens/04-accueil.png) |
 | Connexion | Inscription | Accueil |
 | ![Produits phares](./assets/images/04-accueil-produits-phares.png) | ![Boutique](./assets/images/05-boutique.png) | ![Panier](./assets/images/06-panier.png) |
 | Produits phares | Boutique | Panier |
