@@ -68,9 +68,9 @@ Architecture à 3 couches : `Flutter → requête HTTP → API Node.js → MySQL
 | Livraison (étape 1) | Paiement (étape 2) | Récapitulatif (étape 3) |
 | ![Commande confirmée](./assets/images/11-commande-confirmee.png) | ![Historique](./assets/images/12-historique-commandes.png) | ![Détails commande](./assets/images/13-details-commande.png) |
 | Commande confirmée | Historique des commandes | Détails d'une commande |
-| ![Profil](./assets/images/14-profil.png) | ![Notifications](./assets/images/15-notifications.png) | ![Admin stats](./images/screens/16-admin-stats.png) |
+| ![Profil](./assets/images/14-profil.png) | ![Notifications](./assets/images/15-notifications.png) | ![Admin stats](./assets/images/16-admin-stats.png) |
 | Profil | Notifications | Dashboard admin, stats |
-| ![Admin commandes](./images/screens/17-admin-commandes.png) | ![Admin stocks](./images/screens/18-admin-stocks.png) | |
+| ![Admin commandes](./assets/images/17-admin-commandes.png) | ![Admin stocks](./assets/images/18-admin-stocks.png) | |
 | Admin, gestion des commandes | Admin, gestion des stocks | |
 
 ## Modes de paiement
