@@ -64,9 +64,9 @@ Architecture à 3 couches : `Flutter → requête HTTP → API Node.js → MySQL
 | Connexion | Inscription | Accueil |
 | ![Produits phares](./assets/images/04-accueil-produits-phares.png) | ![Boutique](./assets/images/05-boutique.png) | ![Panier](./assets/images/07-panier.png) |
 | Produits phares | Boutique | Panier |
-| ![Checkout livraison](./assets/images/08-checkout-livraison.png) | ![Checkout paiement](./assets/images/09-checkout-paiement.png) | ![Checkout récapitulatif](./assets/images/09-checkout-recapitulatif.png) |
+| ![Checkout livraison](./assets/images/08-checkout-livraison.png) | ![Checkout paiement](./assets/images/09-checkout-paiement.png) | ![Checkout récapitulatif](./assets/images/10-checkout-recapitulatif.png) |
 | Livraison (étape 1) | Paiement (étape 2) | Récapitulatif (étape 3) |
-| ![Commande confirmée](./assets/images/10-commande-confirmee.png) | ![Historique](./assets/images/12-historique-commandes.png) | ![Détails commande](./assets/images/13-details-commande.png) |
+| ![Commande confirmée](./assets/images/11-commande-confirmee.png) | ![Historique](./assets/images/12-historique-commandes.png) | ![Détails commande](./assets/images/13-details-commande.png) |
 | Commande confirmée | Historique des commandes | Détails d'une commande |
 | ![Profil](./assets/images/14-profil.png) | ![Notifications](./assets/images/15-notifications.png) | ![Admin stats](./images/screens/15-admin-stats.png) |
 | Profil | Notifications | Dashboard admin, stats |
