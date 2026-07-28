@@ -3,7 +3,7 @@
 YAO MIÉZAN SAM WILLIAM
 
 <p align="center">
-  <img src="./assetes/images/logo.png" alt="Logo Ayana Hair" width="140"/>
+  <img src="./assets/images/logo.png" alt="Logo Ayana Hair" width="140"/>
 </p>
 
 <h1 align="center">Ayana Hair</h1>
