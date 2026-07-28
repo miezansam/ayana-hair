@@ -60,15 +60,15 @@ Architecture à 3 couches : `Flutter → requête HTTP → API Node.js → MySQL
 
 | | | |
 |---|---|---|
-| ![Connexion](./images/screens/01-login.png) | ![Inscription](./images/screens/02-inscription.png) | ![Accueil](./images/screens/03-accueil.png) |
+| ![Connexion](./assets/images/02-login.png) | ![Inscription](./assets/images/03-inscription.png) | ![Accueil](./images/screens/03-accueil.png) |
 | Connexion | Inscription | Accueil |
-| ![Produits phares](./images/screens/04-accueil-produits-phares.png) | ![Boutique](./images/screens/05-boutique.png) | ![Panier](./images/screens/06-panier.png) |
+| ![Produits phares](./assets/images/04-accueil-produits-phares.png) | ![Boutique](./assets/images/05-boutique.png) | ![Panier](./assets/images/06-panier.png) |
 | Produits phares | Boutique | Panier |
-| ![Checkout livraison](./images/screens/07-checkout-livraison.png) | ![Checkout paiement](./images/screens/08-checkout-paiement.png) | ![Checkout récapitulatif](./images/screens/09-checkout-recapitulatif.png) |
+| ![Checkout livraison](./assets/images/07-checkout-livraison.png) | ![Checkout paiement](./assets/images/08-checkout-paiement.png) | ![Checkout récapitulatif](./assets/images/09-checkout-recapitulatif.png) |
 | Livraison (étape 1) | Paiement (étape 2) | Récapitulatif (étape 3) |
-| ![Commande confirmée](./images/screens/10-commande-confirmee.png) | ![Historique](./images/screens/11-historique-commandes.png) | ![Détails commande](./images/screens/12-details-commande.png) |
+| ![Commande confirmée](./assets/images/10-commande-confirmee.png) | ![Historique](./assets/images/11-historique-commandes.png) | ![Détails commande](./assets/images/12-details-commande.png) |
 | Commande confirmée | Historique des commandes | Détails d'une commande |
-| ![Profil](./images/screens/13-profil.png) | ![Notifications](./images/screens/14-notifications.png) | ![Admin stats](./images/screens/15-admin-stats.png) |
+| ![Profil](./assets/images/13-profil.png) | ![Notifications](./assets/images/15-notifications.png) | ![Admin stats](./images/screens/15-admin-stats.png) |
 | Profil | Notifications | Dashboard admin, stats |
 | ![Admin commandes](./images/screens/16-admin-commandes.png) | ![Admin stocks](./images/screens/17-admin-stocks.png) | |
 | Admin, gestion des commandes | Admin, gestion des stocks | |
