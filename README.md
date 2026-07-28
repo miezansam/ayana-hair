@@ -76,10 +76,10 @@ Architecture à 3 couches : `Flutter → requête HTTP → API Node.js → MySQL
 ## Modes de paiement
 
 <p>
-  <img src="./images/icons/orange_money.png" alt="Orange Money" height="40"/>
-  <img src="./images/icons/mtn_money.png" alt="MTN Mobile Money" height="40"/>
-  <img src="./images/icons/wave.png" alt="Wave" height="40"/>
-  <img src="./images/icons/moov_money.png" alt="Moov Money" height="40"/>
+  <img src="./assets/images/orange_money.png" alt="Orange Money" height="40"/>
+  <img src="./assets/images/mtn_money.png" alt="MTN Mobile Money" height="40"/>
+  <img src="./assets/images/wave.png" alt="Wave" height="40"/>
+  <img src="./assets/images/moov_money.png" alt="Moov Money" height="40"/>
 </p>
 
 Orange Money, MTN Mobile Money, Wave, ou paiement à la livraison.
