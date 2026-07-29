@@ -88,8 +88,6 @@ Orange Money, MTN Mobile Money, Wave, ou paiement à la livraison.
 
 6 tables principales : `Utilisateur`, `Produit`, `Panier`, `Commande`, `CommandeDetail`, `Notification`. Un utilisateur peut passer plusieurs commandes et recevoir plusieurs notifications. Une commande se décompose en plusieurs lignes de détail (`CommandeDetail`), chacune référençant un produit avec son prix et sa quantité au moment de l'achat, ce qui conserve un historique fiable même si le catalogue évolue par la suite.
 
-Le script de création des tables se trouve dans [`AYANA_HAIR_BDD.sql`](./AYANA_HAIR_BDD.sql).
-
 ## API REST (extrait)
 
 | Domaine | Route | Description |
